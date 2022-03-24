@@ -1,7 +1,7 @@
 # VyM Distribuciones
 
 <p align="center">
-    <img width="80%" height="auto" src="./src/assets/img/logoVM_Blanco.svg"/>
+    <img width="80%" height="auto" src="https://i.ibb.co/GJDd4wv/Logo-VM-Blanco-Fondo-Transparente.png"/>
 </p>
 
 > Powered by www.SpSoftFactory.com
