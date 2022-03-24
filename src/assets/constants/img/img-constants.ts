@@ -1,0 +1,1 @@
+export const LOGO_VYM_CONSTANT = '../../../assets/img/LogoVM_Blanco.svg' as string;
