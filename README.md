@@ -1,4 +1,4 @@
-# VymProject
+# VyM Distribuciones
 
 <p align="center">
     <img width="80%" height="auto" src="./src/assets/img/logoVM_Blanco.svg"/>
@@ -6,30 +6,59 @@
 
 > Powered by www.SpSoftFactory.com
 
-## Pre-reqs 
+---
+
+## Pre-reqs ⚙️
 
 <p align="center">
-    <img src="https://img.shields.io/static/v1.svg?label=Angular&message=v >= 13.3.1&labelColor=CB3837&logoColor=FFFFFF&color=757575&logo=npm" />
+    <img src="https://img.shields.io/static/v1.svg?&label=Angular&message=v >= 13.3.1&labelColor=CB3837&logoColor=FFFFFF&color=757575&logo=angular" />
+    <img src="https://img.shields.io/static/v1.svg?label=Typescript&message=v >= 4.6.2&labelColor=0678cc&logoColor=FFFFFF&color=757575&logo=typescript" />
+    <img src="https://img.shields.io/static/v1.svg?label=Bootstrap&message=v >= 5.1.3&labelColor=563d7c&logoColor=FFFFFF&color=757575&logo=Bootstrap" />
 </p>
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+---
+## Contents 📦
+- [Installation](#installation-⚙️)
+- [Docker](#docker-🐳)
+- [Running the app](#running-the-app-🚀)
+---
+## Installation ⚙️
+1. Clone repository
+```shell
+$ git clone https://github.com/nicoopalenque/vym-project.git
+```
+2. Entry in repository
+```shell
+$ cd vym-project
+```
+3. Install packages
+```shell
+$ npm i
+```
+---
 
-## Code scaffolding
+⏪️ - [Back](#contents-📦)
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+---
+## Docker 🐳
+> Comming soon
+---
 
-## Build
+⏪️ - [Back](#contents-📦)
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+---
+## Running the app 🚀
 
-## Running unit tests
+```bash
+# development mode
+$ ng serve -o
+```
+---
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+⏪️ - [Back](#contents-📦)
 
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+---
+## Contributors 👷
+- Rene Nicolas Palenque (Backend developer)
+- Roberto Tejerina (Fullstack developer)
+- Gisela Arce (Fullstack developer)
