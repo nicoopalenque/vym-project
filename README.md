@@ -1,8 +1,16 @@
 # VymProject
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.0.
+<p align="center">
+    <img width="80%" height="auto" src="./src/assets/img/logoVM_Blanco.svg"/>
+</p>
 
-## Development server
+> Powered by www.SpSoftFactory.com
+
+## Pre-reqs 
+
+<p align="center">
+    <img src="https://img.shields.io/static/v1.svg?label=Angular&message=v >= 13.3.1&labelColor=CB3837&logoColor=FFFFFF&color=757575&logo=npm" />
+</p>
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
 
